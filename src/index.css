@@ -1,0 +1,18 @@
+.navigation {
+  background-color: plum;
+  padding: 5% 0% 5% 0%;
+}
+
+.navigation ul li {
+  display: inline;
+  padding: 2%;
+}
+.navigation ul li a {
+  color:gray;
+  text-decoration: none;
+}
+
+.container {
+  background-color: honeydew;
+  padding: 2%;
+}
